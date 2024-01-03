@@ -24,7 +24,7 @@
         <!-- Page Header End -->
 
 
-        @include('admin.testimonial')
+        @include('admin.addTestimonial')
 
         @include('includes.footer')
 </body>

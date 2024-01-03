@@ -55,7 +55,7 @@
 
         @include('includes.team')
 
-        @include('includes.testimonial')
+        @include('admin.testimonial')
 
         @include('includes.footer')
 </body>
