@@ -12,7 +12,7 @@
                             </div>
                             <div class="col-sm-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="rounded-circle flex-shrink-0" src="{{asset('assets/img/user.jpg')}}" alt="" style="width: 45px; height: 45px;">
+                                    <img class="rounded-circle flex-shrink-0" src="{{asset('assets/images/user.jpg')}}" alt="" style="width: 45px; height: 45px;">
                                     <div class="ms-3">
                                         <h6 class="text-primary mb-1">Jhon Doe</h6>
                                         <small>CEO & Founder</small>
@@ -24,13 +24,13 @@
                     <div class="col-lg-6 about-img wow fadeInUp" data-wow-delay="0.5s">
                         <div class="row">
                             <div class="col-12 text-center">
-                                <img class="img-fluid w-75 rounded-circle bg-light p-3" src="{{asset('assets/img/about-1.jpg')}}" alt="">
+                                <img class="img-fluid w-75 rounded-circle bg-light p-3" src="{{asset('assets/images/about-1.jpg')}}" alt="">
                             </div>
                             <div class="col-6 text-start" style="margin-top: -150px;">
-                                <img class="img-fluid w-100 rounded-circle bg-light p-3" src="{{asset('assets/img/about-2.jpg')}}" alt="">
+                                <img class="img-fluid w-100 rounded-circle bg-light p-3" src="{{asset('assets/images/about-2.jpg')}}" alt="">
                             </div>
                             <div class="col-6 text-end" style="margin-top: -150px;">
-                                <img class="img-fluid w-100 rounded-circle bg-light p-3" src="{{asset('assets/img/about-3.jpg')}}" alt="">
+                                <img class="img-fluid w-100 rounded-circle bg-light p-3" src="{{asset('assets/images/about-3.jpg')}}" alt="">
                             </div>
                         </div>
                     </div>

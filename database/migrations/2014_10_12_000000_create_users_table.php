@@ -19,7 +19,8 @@ return new class extends Migration
             $table->string('password');
             $table->string('mobile');
             $table->string('image');
-            
+            $table->boolean('active')->default(true);
+            $table->softDeletes();
             $table->rememberToken();
             $table->timestamps();
         });
